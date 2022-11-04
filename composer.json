@@ -11,12 +11,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "Hillel\\Geo\\": "./src"
+      "Hillel\\GeoService1\\": "./src"
     }
   },
   "require": {
     "geoip2/geoip2": "~2.0",
-    "hudzhal/geointerface": "dev-main"
+    "hudzhal/geointerface": "^1.0.0"
   },
   "repositories": [
     {
