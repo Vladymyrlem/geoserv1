@@ -15,7 +15,13 @@
     }
   },
   "require": {
-    "hudzhal/geointerface": "master-dev",
-    "illuminate/support": "^8.33.1"
-  }
+    "geoip2/geoip2": "~2.0",
+    "hudzhal/geointerface": "dev-main"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Vladymyrlem/geointerface"
+    }
+  ]
 }
