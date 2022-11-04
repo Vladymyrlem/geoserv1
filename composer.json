@@ -1,0 +1,21 @@
+{
+  "name": "hudzhal/geoserv1",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "vovan",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Hillel\\Geo\\": "./src"
+    }
+  },
+  "require": {
+    "hudzhal/geointerface": "master-dev",
+    "illuminate/support": "^8.33.1"
+  }
+}
