@@ -16,7 +16,7 @@
   },
   "require": {
     "geoip2/geoip2": "~2.0",
-    "hudzhal/geointerface": "dev-main"
+    "hudzhal/geointerface": "^1.0"
   },
   "repositories": [
     {
